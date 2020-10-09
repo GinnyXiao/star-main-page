@@ -1,0 +1,11 @@
+# Site settings
+title: Sailboat Test Arena (STAr) Team
+email: cuhk-star@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://" # the base hostname & protocol for your site
+
+github_username: STAr@CUHKSZ
+
+# Build settings
+markdown: kramdown
